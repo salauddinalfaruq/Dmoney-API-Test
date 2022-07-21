@@ -1,4 +1,4 @@
-# Dmoney-API-Test
+# API-test
 
 
 ### How to run this project
